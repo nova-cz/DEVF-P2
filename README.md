@@ -1,6 +1,6 @@
 # 🌟 Top 10 Animes Famosos de la Historia 🌟
 
-![Portada del Proyecto](/src/imgs/portada.jpg)
+![Portada del Proyecto](imgs/portada.jpg)
 
 ## 📖 Descripción
 Este proyecto es una página web interactiva y responsive que presenta una lista de los **5 animes más famosos de la historia**. Cada anime cuenta con una imagen y una breve descripción que se puede expandir con solo hacer clic. También incluye información sobre los géneros del anime y una breve historia de su evolución a lo largo del tiempo.
@@ -34,7 +34,7 @@ La página web está disponible en línea gracias a [GitHub Pages](https://nova-
 
 ## 📸 Capturas de Pantalla
 ### Vista General
-![Vista General del Proyecto](src/imgs/vista.png)
+![Vista General del Proyecto](imgs/vista.png)
 
 ---
 
